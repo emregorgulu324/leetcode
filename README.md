@@ -1,1 +1,3 @@
-A collection of my LeetCode solutions, focusing on efficient algorithms and data structures.
+# LeetCode Solutions
+
+This directory contains my LeetCode problem solutions and explanations.
